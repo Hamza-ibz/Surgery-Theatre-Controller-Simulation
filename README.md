@@ -2,6 +2,7 @@
 
 The GUI application that you need to create is a basic ‘surgery theatre controller’ simulation. The required design is illustrated in Figure 5 below.
 
+<p align="center"><img width="857" alt="Screenshot 2022-11-16 at 21 32 53" src="https://user-images.githubusercontent.com/93152488/202299073-81d8915a-18d1-4f6d-966f-85c7374f040e.png"></p>
 
 The application comprises several regions representing controls for clocks (a real time and an elapsed time), room temperature, humidity and pressure, 
 lighting control, and a medical gases display. Each area on screen comprises JavaFX nodes and controls, such as buttons, labels, text, image views and
