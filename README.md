@@ -8,7 +8,7 @@ The application comprises several regions representing controls for clocks (a re
 lighting control, and a medical gases display. Each area on screen comprises JavaFX nodes and controls, such as buttons, labels, text, image views and
 graphical shapes.
 
-b) With reference to the seven regions in the display, User interaction is as follows:
+With reference to the seven regions in the display, User interaction is as follows:
 - The ‘medical gases’ region has no interaction and is purely a visual display.
   6
 - The ‘daytime clock’ region should have no user interaction but displays the current time which can be derived programmatically in Java from the CPU system clock.
